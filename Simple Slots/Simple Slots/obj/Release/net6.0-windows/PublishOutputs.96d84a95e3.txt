@@ -1,0 +1,5 @@
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Release\net6.0-windows\publish\Quick Slots.exe
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Release\net6.0-windows\publish\Quick Slots.dll
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Release\net6.0-windows\publish\Quick Slots.deps.json
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Release\net6.0-windows\publish\Quick Slots.runtimeconfig.json
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Release\net6.0-windows\publish\Quick Slots.pdb

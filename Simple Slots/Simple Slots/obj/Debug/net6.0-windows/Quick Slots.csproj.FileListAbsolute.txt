@@ -1,0 +1,18 @@
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Debug\net6.0-windows\Quick Slots.exe
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Debug\net6.0-windows\Quick Slots.deps.json
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Debug\net6.0-windows\Quick Slots.runtimeconfig.json
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Debug\net6.0-windows\Quick Slots.dll
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\bin\Debug\net6.0-windows\Quick Slots.pdb
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Quick Slots.csproj.AssemblyReference.cache
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Simple_Slots.Form1.resources
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Simple_Slots.Properties.Resources.resources
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Quick Slots.csproj.GenerateResource.cache
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Quick Slots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Quick Slots.AssemblyInfoInputs.cache
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Quick Slots.AssemblyInfo.cs
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Quick Slots.csproj.CoreCompileInputs.cache
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Quick Slots.dll
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\refint\Quick Slots.dll
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Quick Slots.pdb
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\Quick Slots.genruntimeconfig.cache
+C:\Users\erinc\source\repos\Simple Slots\Simple Slots\obj\Debug\net6.0-windows\ref\Quick Slots.dll
